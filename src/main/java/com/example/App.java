@@ -17,7 +17,7 @@ public class App {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn With Kastro | GitHub Actions + Kubernetes Masterclass</title>
+    <title>Learn With Kapill | GitHub Actions + Kubernetes Masterclass</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * { 
@@ -719,7 +719,7 @@ public class App {
         
         <!-- Announcement Badge -->
         <div class="batch-announcement">
-            🎉 Announcing New Batch On
+            🎉 Announcing New Batch On 10th May 2026
         </div>
         
         <div class="main-icons">
@@ -887,7 +887,7 @@ public class App {
                 <div class="contact-title">Email Us</div>
                 <div class="contact-info">
                     <a href="mailto:learnwithkastro@gmail.com" class="contact-link">
-                        learnwithkastro@gmail.com
+                        kapilkanaujiya3@gmail.com
                     </a>
                 </div>
             </div>
@@ -910,8 +910,8 @@ public class App {
                 </div>
                 <div class="contact-title">Website</div>
                 <div class="contact-info">
-                    <a href="https://www.learnwithkastro.com" target="_blank" class="contact-link">
-                        www.learnwithkastro.com
+                    <a href="https://learnwithkapil.com" target="_blank" class="contact-link">
+                        www.learnwithkapil.com
                     </a>
                 </div>
             </div>
@@ -922,8 +922,8 @@ public class App {
                 </div>
                 <div class="contact-title">YouTube Channel</div>
                 <div class="contact-info">
-                    <a href="https://www.youtube.com/@LearnWithKASTRO" target="_blank" class="contact-link youtube-link">
-                        @LearnWithKASTRO
+                    <a href="https://www.youtube.com/kapil" target="_blank" class="contact-link youtube-link">
+                        @LearnWithKapil
                     </a>
                     <div style="margin-top: 10px; font-size: 0.9rem; opacity: 0.8;">
                         Watch tutorials & demos
@@ -933,7 +933,7 @@ public class App {
         </div>
         
         <div class="copyright">
-            <p>© 2026 Learn With Kastro. All rights reserved.</p>
+            <p>© 2026 Learn With Kapil. All rights reserved.</p>
             <p style="margin-top: 10px; font-size: 0.95rem;">
                 Transform Your DevOps Career with Expert-Led Training
             </p>
